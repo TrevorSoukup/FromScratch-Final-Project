@@ -1,0 +1,81 @@
+.quickFactHeader{
+    font-weight: bold;
+    font-size: 30px;
+    color: coral;
+    text-decoration: underline;
+}
+
+.quickFacts{
+    color: blueviolet;
+
+}
+
+
+head{
+    text-decoration: wavy;
+
+}
+
+body{
+    background-color: rgb(188, 248, 192);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.aaronRodgers{
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    
+}
+
+ol{
+    list-style-position: inside;
+    word-spacing: 2px;
+}
+
+ul{
+    list-style-position:inside;
+
+}
+
+#top{
+    text-decoration:underline;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.intro{
+    font-family:'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+
+.sorryForCaps{
+    text-transform: lowercase;
+    word-spacing: 5px;
+    border: 5px;
+}
+
+nav{
+    background-color: white;
+    padding: 15px;
+    overflow: hidden;
+
+}
+
+nav a{
+    color: black;
+    padding: 15px 20px;
+    text-decoration: none;
+
+}
+
+nav a:hover{
+    background-color: darkgrey;
+}
